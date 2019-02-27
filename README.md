@@ -7,5 +7,13 @@
 **Email: albertoh@gmail.com**<br>
 <br>
 <br>
-<h2> Educación </h2>
+## Educación
+**Titulo: _Escuela primaria concluida_**  
+**Año: _2012_** <br>
+**Ciudad/Pais: _Xalapa-México_**<br>   
+**Institucion: _Juan de la Luz Enriquez_**
 
+**Titulo: _Escuela primaria concluida_**<br>  
+**Año: _2012_** <br>
+**Ciudad/Pais: _Xalapa-México_**<br>   
+**Institucion: _Juan de la Luz Enriquez_**
