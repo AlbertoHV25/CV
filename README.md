@@ -8,11 +8,8 @@
 <br>
 <br>
 ## Educación
-**Titulo: _Escuela primaria concluida_**  
-**Año: _2012_** <br>
-**Ciudad/Pais: _Xalapa-México_**<br>   
-**Institucion: _Juan de la Luz Enriquez_**
-
+**Titulo: _Escuela primaria concluida_**  **Año: _2012_** <br>
+**Ciudad/Pais: _Xalapa-México_**<br>**Institucion: _Juan de la Luz Enriquez_**<br>
 **Titulo: _Escuela primaria concluida_**<br>  
 **Año: _2012_** <br>
 **Ciudad/Pais: _Xalapa-México_**<br>   
