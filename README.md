@@ -67,6 +67,10 @@ _Excel, Word, Photoshop, Publisher, Powerpoint, Lenguajes de programacion como: 
 **Crago: Fisico teorico**
 **Telefono: 2283457634** **Email: MoralesL2@gmail.com**
 
+## Formaciones adicionales 
+**Diplomado en programacion, Congreso de Fisica, Congreso de Geometria curva, Creacion de ecuacion integradora de la relatividad**<br>
 
+**Deportes: Futbol, Baketball, golf**<br> 
+**Hobbies: Jugar videosjuegos(heroico FF), escuchar musica, leer**
 
 
